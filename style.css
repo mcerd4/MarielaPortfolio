@@ -1,0 +1,98 @@
+body, html {
+ 
+    font-family: 'Poppins';
+    background: #d1c8cd;
+    text-align: center;
+
+
+
+  
+}
+#content {
+  height: 200vh;
+}
+
+header {
+    text-align: center;
+    
+    padding: 40px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+ 
+
+} 
+
+section {
+    margin: 20px;
+
+}
+.projects {
+  
+  font-size: 20px;
+
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+
+.initiative {
+ 
+  margin: 10px;
+  padding: 10px 10px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+
+
+}
+.footy {
+ 
+  margin: 10px;
+  padding: 50px 10px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+ 
+
+}
+
+h1 {
+  color: black;
+  font-size: 90px;
+  padding: 10px;
+  background-image: url('https://www.shareicon.net/data/2016/04/25/755320_arrows_512x512.png'), url('https://www.svgrepo.com/show/437565/chevron-left-slash-chevron-right.svg');
+  background-repeat: no-repeat, no-repeat;
+  background-position: center left, center right;
+  background-size: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+p {
+  color: black;
+  font-size: 22px;
+  text-align: justify;
+}
+h2 {
+    color: #9b4819;
+    
+     
+
+
+}
+
+#bio, #work {
+    background-color: #d1c8cd;
+    padding: 120px;
+    margin-left: 200px;
+    margin-right: 200px;
+  
+
+    
+}
+
+footer {
+    background-color: #d1c8cd
+    text-align: center;
+    padding: 80px;
+}
